@@ -1,2 +1,4 @@
-||filgoal.com^
+[Adblock Plus 2.0]
+||www.filgoal.com^
+||filgoal.com
 
