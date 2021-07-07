@@ -1,8 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 0.0.1
-! Title: My Personal Filter List
-! Last modified: 25 Jul 2021 06:46 UTC
-! Expires: 45 days (update frequency)
-! Homepage: 
+! Version: 202107070647
+! Title: EasyList
+! Last modified: 07 Jul 2021 06:46 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Please report any unblocked adverts or problems
+! 
+! -----------------------General advert blocking filters-----------------------!
 !
 ||filgoal.com^
+
