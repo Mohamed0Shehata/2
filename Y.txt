@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Version: 0.0.1
 ! Title: My Personal Filter List
-! Last modified: 07 Jul 2021 06:46 UTC
-! Expires: 7 days (update frequency)
+! Last modified: 25 Jul 2021 06:46 UTC
+! Expires: 45 days (update frequency)
 ! Homepage: 
 !
 ||filgoal.com^
