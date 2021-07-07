@@ -8,5 +8,5 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 !
-||filgoal.com^
+||www.filgoal.com^
 
